@@ -28,7 +28,7 @@
 <a href="https://www.leetcode.com/omprince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omprince" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/pranavkumar0234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="pranavkumar0234" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/parmarprax6s6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="parmarprax6s6" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/developwithpranav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="developwithpranav" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/omprince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="developwithpranav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
