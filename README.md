@@ -3,8 +3,8 @@
 
 <img  align="right" alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<!-- GoatCounter tracking pixel: replace YOUR_GOATCOUNTER_CODE with your site code once you've signed up at goatcounter.com -->
-<img src="https://YOUR_GOATCOUNTER_CODE.goatcounter.com/count?p=/readme" style="display:none" alt="" />
+<!-- GoatCounter tracking pixel -->
+<img src="https://omprince.goatcounter.com/count?p=/readme" style="display:none" alt="" />
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/omprince/omprince/output/pageviews.svg" alt="page views chart" width="100%" />
