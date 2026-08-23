@@ -1,4 +1,4 @@
-name: Update page views chart
+name: Update README assets
 
 on:
   schedule:
@@ -19,11 +19,14 @@ jobs:
         with:
           node-version: 20
 
-      - name: Generate chart
+      - name: Generate page views chart
         env:
           GOATCOUNTER_CODE: ${{ vars.GOATCOUNTER_CODE }}
           GOATCOUNTER_TOKEN: ${{ secrets.GOATCOUNTER_TOKEN }}
         run: node scripts/goatcounter-chart.mjs dist/pageviews.svg --days=14
+
+      - name: Generate skills marquee
+        run: node scripts/skills-marquee.mjs dist/skills-marquee.svg
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
