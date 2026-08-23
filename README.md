@@ -44,6 +44,6 @@
   <img src="https://raw.githubusercontent.com/omprince/omprince/output/skills-marquee.svg" alt="skills" width="100%" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince1killer&show_icons=true&locale=en&layout=compact" alt="prince1killer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omprince&show_icons=true&locale=en&layout=compact" alt="omprince" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince1killer&show_icons=true&locale=en" alt="prince1killer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omprince&show_icons=true&locale=en" alt="omprince" /></p>
