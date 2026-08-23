@@ -3,7 +3,12 @@
 
 <img  align="right" alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince1killer&label=Profile%20views&color=0e75b6&style=flat" alt="prince1killer" /> </p>
+<!-- GoatCounter tracking pixel: replace YOUR_GOATCOUNTER_CODE with your site code once you've signed up at goatcounter.com -->
+<img src="https://YOUR_GOATCOUNTER_CODE.goatcounter.com/count?p=/readme" style="display:none" alt="" />
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/omprince/omprince/output/pageviews.svg" alt="page views chart" width="100%" />
+</p>
 
 <p align="left"> <a href="https://twitter.com/princekiller" target="blank"><img src="https://img.shields.io/twitter/follow/princekiller?logo=twitter&style=for-the-badge" alt="princekiller" /></a> </p>
 
