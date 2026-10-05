@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/princekiller" target="blank"><img src="https://img.shields.io/twitter/follow/princekiller?logo=twitter&style=for-the-badge" alt="princekiller" /></a> </p>
 
 <!-- CURRENT_PROJECT:START -->
-- 🔭 I'm currently working on **[phone_test_os-](https://github.com/omprince/phone_test_os-)** — Here we are going to create a test OS for the phone or mobile system, through which we can understand how the process is going to be to create a mobile OS. This os should be rust base system
+- 🔭 I'm currently working on **[rainingfruits-privacy](https://github.com/omprince/rainingfruits-privacy)** — just privicy policy
 <!-- CURRENT_PROJECT:END -->
 <br/>
 
