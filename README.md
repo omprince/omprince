@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/princekiller" target="blank"><img src="https://img.shields.io/twitter/follow/princekiller?logo=twitter&style=for-the-badge" alt="princekiller" /></a> </p>
 
 <!-- CURRENT_PROJECT:START -->
-- 🔭 I'm currently working on **[rainingfruits-privacy](https://github.com/omprince/rainingfruits-privacy)** — just privicy policy
+- 🔭 I'm currently working on **[docloom_android](https://github.com/omprince/docloom_android)** — This is application to documentation and together we can make the bug, task, deskboad according to project and notify to user in github and also we can check the changes also
 <!-- CURRENT_PROJECT:END -->
 <br/>
 
