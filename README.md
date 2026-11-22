@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/princekiller" target="blank"><img src="https://img.shields.io/twitter/follow/princekiller?logo=twitter&style=for-the-badge" alt="princekiller" /></a> </p>
 
 <!-- CURRENT_PROJECT:START -->
-- 🔭 I'm currently working on **[docloom_android](https://github.com/omprince/docloom_android)** — This is application to documentation and together we can make the bug, task, deskboad according to project and notify to user in github and also we can check the changes also
+- 🔭 I'm currently working on **[Gitforge](https://github.com/omprince/Gitforge)** — Gitforge is an open-source Git desktop client for Linux, written in Rust. It gives you a clean visual interface for everyday Git work, including staging, committing, branching, diffs and history, without needing a paid tool or the command line. Built on libgit2 and iced, it aims to be lightweight, fast and native on Ubuntu and Linux distributions.
 <!-- CURRENT_PROJECT:END -->
 <br/>
 
